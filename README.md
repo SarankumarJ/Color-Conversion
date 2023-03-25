@@ -8,16 +8,24 @@ Anaconda - Python 3.7
 ### Step1: Import cv2.
 <br>
 
-### Step2: Save the image in python folder that you want to perform the color conversion.
+### Step2: 
+
+Save the image in python folder that you want to perform the color conversion.
 <br>
 
-### Step3: Perform color conversions for the image like RGB TO HSV,BGR TO GRAY,HSV TO RGB,RGB TO YCrCb and split and merge of HSV,RGB.
+### Step3: 
+
+Perform color conversions for the image like RGB TO HSV,BGR TO GRAY,HSV TO RGB,RGB TO YCrCb and split and merge of HSV,RGB.
 <br>
 
-### Step4: Use waitKey(0) and destroyAllWindows method to close images without errors.
+### Step4: 
+
+Use waitKey(0) and destroyAllWindows method to close images without errors.
 <br>
 
-### Step5: Run the program and output is displayed.
+### Step5: 
+
+Run the program and output is displayed.
 <br>
 
 ## Program:-
